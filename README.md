@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
-(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<img align="left" alt="krish7777's Github Stats" src=https://github-readme-stats.vercel.app/api/top-langs/?username=krish7777&layout=compact) />
