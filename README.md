@@ -37,3 +37,7 @@ Here are some ideas to get you started:
 <img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
+<br/>
+<img align="left" alt="krish7777's Github Stats" src="https://github-readme-stats.vercel.app/api?username=krish7777&show_icons=true&hide_border=true" />
+
+
